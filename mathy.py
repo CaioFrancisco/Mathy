@@ -21,7 +21,7 @@ def __addelse(num1, num2, numlist):
 
 
 def subtract(num1, num2):
-    return num1+num2
+    return num1-num2
 
 
 
