@@ -7,15 +7,15 @@ It's for normal adding. First arg is `num1` which the name already says. Second 
 
 > subtract
 
-The name says everything. But it doesn't have the `num3` argument.
+The name says everything. It returns the `num1` subtracted by the `num2`. But it doesn't have the `num3` argument.
 
 > multiply
 
-The same multiply of everyday. But it doesn't have the `num3` argument.
+It returns the `num1` multiplied by the `num2`. But it doesn't have the `num3` argument.
 
 > divise
 
-The same of the others. But it doesn't have the `num3` argument.
+It returns the `num1` divised by the `num2`. But it doesn't have the `num3` argument.
 
 > multiplier
 
@@ -24,3 +24,8 @@ It makes a list of multipliers(very, very soon i will explain this). It have 2 a
 > divider
 
 It are for receive a list of divisors of that number. It have only one argument. The `num`. The name already says why serves this argument.
+
+
+> num_expression(IN CODING. NOT ARE IN THE LIB)
+
+It are in construction.
